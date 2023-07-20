@@ -7,6 +7,16 @@ html {
         width: 100% !important;
     }
 
+    #landingsection1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #landingsection2 {
+        margin-top: 8px !important;
+    }
+
     #logoimage {
         min-width: 10rem !important;
     }
