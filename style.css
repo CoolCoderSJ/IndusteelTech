@@ -1,3 +1,13 @@
 html {
     scroll-behavior: smooth;
   }
+
+  @media only screen and (max-width: 768px) {
+    #landingsection1, #landingsection2 {
+        width: 100% !important;
+    }
+
+    #logoimage {
+        min-width: 10rem !important;
+    }
+  }
