@@ -11,6 +11,12 @@ html {
         display: flex;
         flex-direction: column;
         justify-content: center;
+        text-align: center;
+    }
+
+    #donatebtn {
+        margin-right: 0 !important;
+        margin-bottom: 8px !important;
     }
 
     #landingsection2 {
